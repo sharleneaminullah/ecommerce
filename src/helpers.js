@@ -5,4 +5,4 @@ export const isInCart = (product, cartItems) => {
 
 
 export const API = "http://localhost:8181/products";
-export const AUTHRO_EMAIL = "sharlene108@gmail.com";
+export const AUTHOR_EMAIL = "sharlene108@gmail.com";
